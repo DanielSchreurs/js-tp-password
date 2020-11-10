@@ -1,4 +1,4 @@
-# Montrer cacher le mot de passe
+# Montrer cacher le mot de passe 🤪
 
 > A JS exercise use at HEPL for DCC.
 
